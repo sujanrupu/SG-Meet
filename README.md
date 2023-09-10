@@ -1,4 +1,4 @@
-# Ak-Meet
+# SG-Meet
 
 A Video Calling application.
 
